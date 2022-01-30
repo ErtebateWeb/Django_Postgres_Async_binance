@@ -1,5 +1,6 @@
 Django_Postgres_Async_Binance/__pycache__/*
 
+
 # Django #
 *.log
 *.pot
@@ -137,4 +138,4 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
-Django_Postgres_Async_Binance/__pycache__/settings.cpython-38.pyc
+
